@@ -1,0 +1,15 @@
+{
+	"name": "cowin",
+	"version": "1.0.0",
+	"description": "Vaccine alert",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Hari Krishna K",
+	"license": "ISC",
+	"dependencies": {
+		"axios": "^0.21.1",
+		"node-notifier": "^9.0.1"
+	}
+}
